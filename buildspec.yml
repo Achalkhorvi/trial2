@@ -8,3 +8,5 @@ phases:
 artifacts:
   files:
     - '**/*'
+
+    //exercise 8
